@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bernie LaBarge]]></title>
+        <description><![CDATA[Bernie LaBarge]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 14:27:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Keith Emerson]]></title>
+            <description><![CDATA[<article><h1>Keith Emerson</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4827b07ba662efd4693a3f7844a8282081b47565.png"></article>]]></description>
+            <link>undefinedkeith-emerson/index.html</link>
+            <guid isPermaLink="false">73a0d733-7ead-4d87-b4e6-ce9acaa239e2</guid>
+            <pubDate>Thu, 07 Apr 2016 14:27:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
