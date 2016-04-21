@@ -1,14 +1,26 @@
-layout_spectrum: 0.9030354
+layout_spectrum: 0.7468085
+name: Bernie LaBarge
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.346543
 color:
-  saturation: 0.8364249
-  lightness: 0.5193929
-  brandStrength: 0.8288364
+  brandStrength: 0.6595744
+  lightness: 0.5851064
+  saturation: 0.4085106
+  rhythmicContrast: 0.608769
   brandColors:
     - '#050403'
     - '#FCFCF8'
     - '#413B2F'
     - '#AC9A88'
     - '#765316'
-  rhythmicContrast: 0.608769
-typography_spectrum: 0.346543
-name: Bernie LaBarge
