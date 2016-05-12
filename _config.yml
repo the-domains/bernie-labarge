@@ -1,4 +1,4 @@
-layout_spectrum: 0.2409262
+layout_spectrum: 1
 name: Bernie LaBarge
 collections:
   - index:
@@ -12,15 +12,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.9881101
 color:
   brandStrength: 0.6595744
-  lightness: 0.5375469
   saturation: 1
-  rhythmicContrast: 1
   brandColors:
     - '#050403'
     - '#FCFCF8'
     - '#413B2F'
     - '#AC9A88'
     - '#765316'
-typography_spectrum: 0.9881101
+  lightness: 0.5375469
+  rhythmicContrast: 1
